@@ -1,0 +1,11 @@
+shared_script 'library_ad.lua'
+fx_version 'adamant'
+game 'gta5'
+
+client_scripts {
+    'client.lua'
+}
+
+server_scripts {
+    'server.lua'
+}
